@@ -1,3 +1,3 @@
 # New-year-eve
-Working on timing where  we can calculate the interval between two different chosen time if you got a new idea of making this great just contribute and bring new features 
+Working on timing where  we can calculate time left for a new year eve from current time if you got a new idea of making this great just contribute and bring new features 
 index.html
